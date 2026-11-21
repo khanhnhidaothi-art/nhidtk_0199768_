@@ -23,6 +23,6 @@ namespace ConsoleApp1
                 }
                 else _health = value;
             }
-        }
+        }// 
     }
 }
