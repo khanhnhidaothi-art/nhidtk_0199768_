@@ -25,6 +25,6 @@ namespace btap3
             }
             Console.WriteLine("T=" + T.ToString());
         }
-
+        //27-10 
     }
 }
