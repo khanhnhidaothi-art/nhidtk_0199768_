@@ -21,7 +21,7 @@ namespace nhi
                 Console.WriteLine("i=" + i.ToString());
                 for (int j = 1; j < n; j++)
 
-
+                    //20-10// 
                 {
                     Console.WriteLine("  j=" + j.ToString());
                     T = T + j;
